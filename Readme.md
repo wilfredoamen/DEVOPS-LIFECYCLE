@@ -17,13 +17,13 @@ DevOps is the combination of cultural philosophies, practices, and tools that ai
 ## DevOps Lifecycle Stages
 
 1. **Planning**  
-   This is where teams collaborate to define requirements, objectives, and scope before the project starts.
+   This is the stage teams collaborate to define requirements, objectives, and scope before the project starts.
 
 2. **Development**  
    This is where the actual code is written and managed using version control systems, ensuring the teams coordination.
 
 3. **Building**  
-   The code is Compiled and converted here into executable applications using automated build tools.
+   The code is Compiled and converted at this stage into executable applications using automated build tools.
 
 4. **Testing**  
    Testing in DevOps is a continuous process that ensures quality is built into every stage of the software delivery pipeline.
